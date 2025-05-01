@@ -1,2 +1,5 @@
-# Assignment_QA_871
-OrangeHRM Automation Assignment
+# OrangeHRM Automation
+
+Automates login, leave, and logout features using Selenium and Python.
+
+## To run tests:
